@@ -5,11 +5,11 @@
 | BikeSharingDemandPrediction_Regression.ipynb     |    Colab Notebook     |  	Contains code for ML model implementation of the project    |    [View](https://colab.research.google.com/drive/1cvW4_9LIYecgzV4O98fgSecRGv-XqfvK?usp=sharing)    |
 | README.md    |    Markdown     |  The README file for the project    |    [View](https://github.com/Hemant-1Kumar/BikeSharingDemandRegression/edit/main/README.md)    |
 | SeoulBikeData.csv     |    CSV     |  A CSV file containing data used in the project    |    [View](https://github.com/yahya-ansariii/BikeSharingDemandRegression/blob/master/SeoulBikeData.csv)    |
-| banner.jpg     |    Image     |  	An image used in the readme of the project    |    [View](https://github.com/yahya-ansariii/BikeSharingDemandRegression/blob/master/banner.jpg)    |
+| banner.jpg     |    Image     |  	An image used in the readme of the project    |    [View](https://github.com/Hemant-1Kumar/BikeSharingDemandRegression/edit/main/banner.jpg)    |
 
 # Bike Sharing Demand Prediction - Regression
 
-**AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/64265556656777/)
+**AlmaBetter Verified Project** - [**Credentials**]()
 
 ![banner](banner.jpg)
 
@@ -58,6 +58,4 @@ Overall, the project highlights the potential of machine learning in solving rea
 
 ## Authors
 
-- [Mohammed Yahya Ansari](https://www.linkedin.com/in/yahya-ansari/)
-- [Prafull Korde](https://www.linkedin.com/in/prafull-korde-400560126/)
-
+- [Hemant Kumar](https://www.linkedin.com/in/hemant-kumarr/)
