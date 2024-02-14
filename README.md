@@ -43,7 +43,7 @@ Some of the key points are:-
 
 - High demand in the morning and evening.
 - Less Demand in the winter season.
-- Highest demand in june.
+- Highest demand in june
 - Found multicollinearity between temperature and dew point temperature.
 - Perform linear regression, decision tree, random forest, gradient boosting, Xtreme gradient boosting. & got highest accuracy i.e 93% on train and 90% on test on Xtreme gradient boosting.
 - There is no use of removing outliers it affects negatively on model performance.
